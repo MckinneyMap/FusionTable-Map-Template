@@ -1,4 +1,4 @@
-[See the working demo &raquo;](http://Mckinney.github.io/FusionTable-Map-Template/)
+[See the working demo &raquo;](http://MckinneyMap.github.io/FusionTable-Map-Template/)
 
 ## Copyright and attribution
 
